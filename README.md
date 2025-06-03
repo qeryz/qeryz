@@ -4,6 +4,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pengzhenghao/pengzhenghao/output/github-contribution-grid-snake.svg">
 </picture>
 
+- 👋 Howdy, I'm Marcos
+- Software Engineer experienced in frontend applications
+- Checkout my portfolio: marcospadilla.com
 <!--
 **qeryz/qeryz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
